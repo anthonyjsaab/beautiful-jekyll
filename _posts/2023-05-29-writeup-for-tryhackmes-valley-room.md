@@ -276,7 +276,7 @@ ftp> exit
 
 Analysing the Wireshark captures were very time consuming. It is not possible to list every finding here. The most import finding was in the siemHTTP2.pcapng file while inspecting unencrypted packets:
 
-![675cccd8a3b18b371232be37cf1bc40e](https://github.com/anthonyjsaab/thm-writeups/assets/56998706/36355922-253e-40a1-9149-11d70946bdea)
+![241680471-36355922-253e-40a1-9149-11d70946bdea](https://github.com/anthonyjsaab/thm-writeups/assets/56998706/c28f024a-2185-48c2-beeb-8f14b0c50e22)
 
 
 The credentials valleyDev:p********* will prove to be important later.
