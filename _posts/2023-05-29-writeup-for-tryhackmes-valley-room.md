@@ -456,10 +456,8 @@ Going through the output revealed to be mostly gibberish. However, two snippets 
 - While searching for "user", I found this:
 ```text
 -^;x&
-e6722920bab2326f8217e4
-bf6b1b58ac
-ddJ1cc76ee3
-beb60709056cfbOW
+e67[REDACTED]ac
+ddJ[REDACTED]6cfbOW
 elcome to Valley Inc. Authentica
 [k0rHh
  is your usernad
@@ -505,8 +503,8 @@ Using strings on this bigger executable leads to much more output, but they are 
 I9\$xv.I
 T$pH
 tKU1
-e6722920bab2326f8217e4bf6b1b58ac
-dd2921cc76ee3abfd2beb60709056cfb
+e6[REDACTED]ac
+dd[REDACTED]fb
 Welcome to Valley Inc. Authenticator
 What is your username: 
 What is your password: 
